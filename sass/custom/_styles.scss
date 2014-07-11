@@ -1,2 +1,38 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+ul {
+  list-style: circle inside;
+}
+
+navbar-clear {
+  background-color: none;
+  border-color: none;
+}
+
+.navbar-brand {
+  float: left;
+  padding: $navbar-padding-vertical $navbar-padding-horizontal;
+  font-size: $font-size-large;
+  line-height: $line-height-computed;
+  height: $navbar-height;
+  background-color: #333332;
+
+  &:hover,
+  &:focus {
+    text-decoration: none;
+  }
+
+  @media (min-width: $grid-float-breakpoint) {
+    .navbar > .container &,
+    .navbar > .container-fluid & {
+      margin-left: -$navbar-padding-horizontal;
+    }
+  }
+
+  img {
+    border: none;
+    width: 25px;
+    height: 25px;
+  }
+}
