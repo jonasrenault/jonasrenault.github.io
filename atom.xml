@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Jonas Renault]]></title>
   <link href="http://jonasrenault.github.io/atom.xml" rel="self"/>
   <link href="http://jonasrenault.github.io/"/>
-  <updated>2014-07-11T12:04:41+02:00</updated>
+  <updated>2014-07-11T15:33:11+02:00</updated>
   <id>http://jonasrenault.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Jonas Renault]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Testing Out Octopress: Deploying a Blog to Github Pages]]></title>
+    <link href="http://jonasrenault.github.io/blog/2014/07/11/testing-out-octopress-deploying-a-blog-to-github-pages/"/>
+    <updated>2014-07-11T15:19:29+02:00</updated>
+    <id>http://jonasrenault.github.io/blog/2014/07/11/testing-out-octopress-deploying-a-blog-to-github-pages</id>
+    <content type="html"><![CDATA[<p>This is my first Post !</p>
+
+<!-- more -->
+
+
+<p>This should not appear on the index page.</p>
+]]></content>
+  </entry>
   
 </feed>
