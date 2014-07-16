@@ -99,3 +99,6 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+# Stackoverflow Careers
+stackoverflow_careers: jonasrenault

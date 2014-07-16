@@ -10,29 +10,75 @@ navbar-clear {
   border-color: none;
 }
 
-.navbar-brand {
-  float: left;
-  padding: $navbar-padding-vertical $navbar-padding-horizontal;
-  font-size: $font-size-large;
-  line-height: $line-height-computed;
-  height: $navbar-height;
-  background-color: #333332;
+.hero {
+  margin: 0px;
+  padding-top: 200px;
+  background-attachment: scroll;
+  background-clip: border-box;
+  background-color: #323232;
+  background-image: url("/images/background.jpg");
+  background-origin: padding-box;
+  background-position: 0 0;
+  background-repeat: repeat;
+  background-size: cover;
+  z-index: -1;
+  height: 550px;
+  text-align: center;
+  color: white;
 
-  &:hover,
-  &:focus {
-    text-decoration: none;
+  div > h1 {
+    font-weight: 700;
+    font-style: normal;
+    font-size: 50px;
+    line-height: 1;
+    margin-bottom: 8px;
+    outline: 0;
+    word-break: break-word;
   }
 
-  @media (min-width: $grid-float-breakpoint) {
-    .navbar > .container &,
-    .navbar > .container-fluid & {
-      margin-left: -$navbar-padding-horizontal;
+  div > p {
+    letter-spacing: .01rem;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 22px;
+  }
+}
+
+.home-about {
+
+  background: #f9f9f9;
+  border-top: 1px solid #f2f2f0;
+  border-bottom: 1px solid #f2f2f0;
+  padding: 12px 0px;
+
+  h4 {
+    font-weight: 700;
+    font-style: normal;
+    padding-bottom: 12px;
+    text-transform: uppercase;
+    font-size: 11px;
+    letter-spacing: .1em;
+    color: #b3b3b1;
+  }
+
+  #about-me {
+    margin-bottom: 10px;
+
+    line-height: 2.0;
+
+    .social-icon-list {
+      margin-top: 22px;
     }
   }
+}
 
-  img {
-    border: none;
-    width: 25px;
-    height: 25px;
-  }
+.nav-icon {
+  padding: 10px;
+  color: white;
+  background-color: #333332;
+  border: 0;
+}
+
+.nav-search {
+  margin-top: 10px;
 }

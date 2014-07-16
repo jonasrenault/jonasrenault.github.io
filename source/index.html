@@ -1,38 +1,46 @@
 ---
 layout: default
 ---
+<!-- Hero ================================================== -->
+<div class="jumbotron hero">
+    <div class="container">
+        <h1>Hi ! I'm Jonas Renault</h1>
 
-<div class="home-page">
-  <div class="hero">
-    {% include custom/hero.html %}
-  </div>
-
-  <div class="home-field">
-    <div class="home-landing her-row">
-      <div class="container">
-        <div class="row">
-          {% include custom/home_landing_row.html %}
-        </div>
-      </div>
+        <p>I'm an experienced web application developer</p>
     </div>
+</div>
 
-    <div class="article-list">
-      <div class="container">
+<!-- About Field ================================================== -->
+<div class="home-about">
+    <div class="container">
+        {% include custom/home_landing_row.html %}
+    </div>
+</div>
+
+<!-- Posts List ================================================== -->
+<div class="article-list">
+    <div class="container">
         {% for post in paginator.posts %}
-          {% assign content = post.content %}
-          <div class="row">
+        {% assign content = post.content %}
+        <div class="row">
             <div class="col-md-offset-3 col-md-6">
-              {% include article_listing.html %}
+                {% include article_listing.html %}
             </div>
-          </div>
+        </div>
         {% endfor %}
-      </div>
     </div>
+</div>
 
-    <hr class="divider-short"/>
 
-    <div class="archive-link">
-      <h3><a href="/posts/">All Posts</a></h3>
-    </div>
-  </div>
+<hr class="divider-short"/>
+
+<!-- Navigation List ================================================== -->
+<div class="archive-link">
+    {% if paginator.next_page %}
+    <a class="prev" href="{{paginator.next_page_path}}">&larr; Older</a>
+    {% endif %}
+    <a href="/allposts/"><h3>All Posts</h3></a>
+    {% if paginator.previous_page %}
+    <a class="next" href="{{paginator.previous_page_path}}">Newer &rarr;</a>
+    {% endif %}
 </div>
