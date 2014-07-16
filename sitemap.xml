@@ -3,29 +3,29 @@
   
   
   <url>
-    <loc>http://jonasrenault.github.io/blog/2014/07/11/testing-out-octopress-deploying-a-blog-to-github-pages/</loc>
-    <lastmod>2014-07-11T15:19:29+02:00</lastmod>
+    <loc>http://jonasrenault.github.io/blog/2014/07/16/setting-up-a-blog-with-octopress-on-github-pages/</loc>
+    <lastmod>2014-07-16T16:06:48+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   
   <url>
     <loc>http://jonasrenault.github.io/allposts/</loc>
-    <lastmod>2014-07-16T15:34:28+02:00</lastmod>
+    <lastmod>2014-07-16T16:52:38+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://jonasrenault.github.io/blog/archives/</loc>
-    <lastmod>2014-07-16T15:34:28+02:00</lastmod>
+    <lastmod>2014-07-16T16:52:38+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://jonasrenault.github.io/</loc>
-    <lastmod>2014-07-16T15:34:28+02:00</lastmod>
+    <lastmod>2014-07-16T16:52:38+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
