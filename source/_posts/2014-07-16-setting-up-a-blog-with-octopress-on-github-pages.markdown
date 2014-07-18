@@ -3,7 +3,7 @@ layout: post
 title: "Setting Up a Blog with Octopress on Github Pages"
 date: 2014-07-16 16:06:48 +0200
 comments: true
-categories: blog
+categories: blog dev
 ---
 
 So, my friend. You want to get yourself a beautiful blog like mine ? Well, you've come to the right place. 
