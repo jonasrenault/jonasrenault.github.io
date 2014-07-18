@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://jonasrenault.github.io/blog/2014/07/18/jean-claude-van-dance/</loc>
+    <lastmod>2014-07-18T21:34:19+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://jonasrenault.github.io/blog/2014/07/16/recipe-spring-pasta-salad-with-peas-and-pesto/</loc>
     <lastmod>2014-07-16T20:36:41+02:00</lastmod>
     <priority>0.8</priority>
@@ -23,21 +29,21 @@
   
   <url>
     <loc>http://jonasrenault.github.io/allposts/</loc>
-    <lastmod>2014-07-16T21:11:19+02:00</lastmod>
+    <lastmod>2014-07-18T21:40:11+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://jonasrenault.github.io/blog/archives/</loc>
-    <lastmod>2014-07-16T21:11:19+02:00</lastmod>
+    <lastmod>2014-07-18T21:40:11+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://jonasrenault.github.io/</loc>
-    <lastmod>2014-07-16T21:11:19+02:00</lastmod>
+    <lastmod>2014-07-18T21:40:11+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
