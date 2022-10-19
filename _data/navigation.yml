@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Work"
+    url: /work/
+
+  - title: "Education"
+    url: /education/
+
+  - title: "Publications"
+    url: /publications/
