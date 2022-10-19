@@ -24,7 +24,7 @@ Christophe Biernacki, Benjamin Auder, Gilles Celeux, Josselin Demont, Florent La
 ---
 
 **Trouble dans le sujet. Subjectivation, performativité & critique chez Judith Butler**, *2020*  
-Mémoire de Master Philosophie 2e année, dir. Judith Revel, Université Paris Nanterre
+Mémoire de master philosophie 2e année, dir. Judith Revel, Université Paris Nanterre
 
 **La nature du temps dans la pensée de Jacques Rancière**, *2019*  
-Mémoire de Master Philosophie 1e année, dir. Patrice Maniglier, Université Paris Nanterre
+Mémoire de master philosophie 1e année, dir. Patrice Maniglier, Université Paris Nanterre
