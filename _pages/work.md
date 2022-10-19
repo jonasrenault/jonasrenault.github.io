@@ -31,7 +31,7 @@ gallery2:
 
 **Research engineer**, *INRIA* <span class="pull-right">2021 -  </span>  
 <span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Python, Scikit-learn, Datalog, JavaScript</span>  
-Research engineer, within the INRIA PARIETAL team, in charge of the [NeuroLang](https://neurolang.github.io/) project. NeuroLang is a probabilist query system for meta-analysis of neurology studies. NeuroLang implements a Datalog query solver to interpret and solve relational algebra queries on large neuroimaging datasets. I worked on NeuroLang to optimize the query solver and to develop a web application for the project.  
+Research engineer, within the INRIA PARIETAL team, in charge of the [NeuroLang](https://neurolang.github.io/) project. NeuroLang is a probabilist query system for meta-analysis of neurological studies. NeuroLang implements a Datalog query solver to interpret and solve relational algebra queries on large neuroimaging datasets. I worked on NeuroLang to optimize the query solver and to develop a web application for the project.  
 <i class="fas fa-plus small-grey"></i> Contribution to open-source projects for the team  
 <i class="fas fa-plus small-grey"></i> Code review and engineering support for phd students and researchers  
 <i class="fas fa-plus small-grey"></i> Public presentation of the project, as well as contributing to research papers and white-papers  
@@ -60,6 +60,27 @@ Research engineer working with a mixed INRIA - Université Paris Saclay team. In
 <i class="fas fa-plus small-grey"></i> Project management, principal architect and developer  
 <i class="fas fa-plus small-grey"></i> Public presentation and demonstration of the web app to scientific users  
 
+
+**Fullstack engineer**, *WDS, A Xerox company* <span class="pull-right">2014 - 2015</span>  
+<span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Java, JavaScript, Redis, PlayFramework</span>  
+Working within an international team of developers, I helped develop an intelligent virtual agent for call centers. This virtual agent relies machine learning algorithms to solve problems and find the most relevant information and solutions.  
+<i class="fas fa-plus small-grey"></i> Implementation of machine learning algorithms (classification, clustering, search algorithms, …) in collaboration with researchers from the Xerox Research Center Europe.  
+<i class="fas fa-plus small-grey"></i> Fullstack development of both front and backend (Java, Angular)  
+<i class="fas fa-plus small-grey"></i> Following Agile best pratices (peer programming, test driven development, continuous integration)  
+
+
+**Fullstack developer**, *7 Circles* <span class="pull-right">2011 - 2014</span>  
+<span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Java, JavaScript, ElasticSearch, MongoDB</span>  
+Fullstack developer for a startup developing specialized social networks.  
+<i class="fas fa-plus small-grey"></i> Fullstack development (Java, GWT)  
+<i class="fas fa-plus small-grey"></i> NoSQL databases and search engines for data indexation  
+
+
+**Software engineer**, *Valtech* <span class="pull-right">2010 - 2011</span>  
+<span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Java, JavaScript, Spring, GWT</span>  
+Junior software engineer at a consulting agency, developing mostly web based applications for various clients.  
+<i class="fas fa-plus small-grey"></i> Conception and implementation of full software solutions adapted to the client's needs  
+<i class="fas fa-plus small-grey"></i> Following Agile methodology  
 
 
 **Machine learning internship**, *CEA* <span class="pull-right">2009</span>  

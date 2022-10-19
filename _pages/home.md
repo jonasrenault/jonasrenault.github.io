@@ -14,6 +14,6 @@ I enjoy working with multidisciplinary teams from various backgrounds. I have ex
 
 Please take a look at [some of my work](/work).
 
-Here is my [resume](/files/jrenault-cv-2022.pdf) (in french).
+Here is my [resume](/files/cv-jrenault-2022.pdf) (in french).
 
 Please contact me with any questions (email on the left).
