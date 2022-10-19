@@ -5,25 +5,25 @@ permalink: /work/
 author_profile: true
 classes: wide
 gallery1:
-  - url: /images/galleries/neurolang-1.jpg
-    image_path: /images/galleries/neurolang-1.jpg
+  - url: /images/projects/neurolang-1.jpg
+    image_path: /images/projects/neurolang-1.jpg
     alt: "Neurolang web app screenshot"
     title: "Neurolang web app"
-  - url: /images/galleries/neurolang-2.jpg
-    image_path: /images/galleries/neurolang-2.jpg
+  - url: /images/projects/neurolang-2.jpg
+    image_path: /images/projects/neurolang-2.jpg
     alt: "Neurolang web app screenshot"
     title: "Neurolang web app"
 gallery2:
-  - url: /images/galleries/cartolabe-1.jpg
-    image_path: /images/galleries/cartolabe-1.jpg
+  - url: /images/projects/cartolabe-1.jpg
+    image_path: /images/projects/cartolabe-1.jpg
     alt: "Cartolabe web app screenshot"
     title: "Cartolabe web app"
-  - url: /images/galleries/cartolabe-2.jpg
-    image_path: /images/galleries/cartolabe-2.jpg
+  - url: /images/projects/cartolabe-2.jpg
+    image_path: /images/projects/cartolabe-2.jpg
     alt: "Cartolabe web app screenshot"
     title: "Cartolabe web app"
-  - url: /images/galleries/cartolabe-3.jpg
-    image_path: /images/galleries/cartolabe-3.jpg
+  - url: /images/projects/cartolabe-3.jpg
+    image_path: /images/projects/cartolabe-3.jpg
     alt: "Cartolabe web app screenshot"
     title: "Cartolabe web app"
 ---
