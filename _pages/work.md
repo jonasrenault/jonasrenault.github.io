@@ -29,7 +29,7 @@ gallery2:
 ---
 
 
-**Research engineer**, *INRIA* <span class="pull-right">2021 -  </span>  
+**Research engineer**, *INRIA* <span class="pull-right">2021 - 2022</span>  
 <span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Python, Scikit-learn, Datalog, JavaScript</span>  
 Research engineer, within the INRIA PARIETAL team, in charge of the [NeuroLang](https://neurolang.github.io/) project. NeuroLang is a probabilist query system for meta-analysis of neurological studies. NeuroLang implements a Datalog query solver to interpret and solve relational algebra queries on large neuroimaging datasets. I worked on NeuroLang to optimize the query solver and to develop a web application for the project.  
 <i class="fas fa-plus small-grey"></i> Contribution to open-source projects for the team  
