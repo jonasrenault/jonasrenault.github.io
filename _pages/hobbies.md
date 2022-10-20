@@ -3,48 +3,6 @@ title: "Hobbies"
 permalink: /hobbies/
 author_profile: true
 classes: wide
-gallery1:
-  - url: /images/sports/travels-1.jpg
-    image_path: /images/sports/travels-1.jpg
-    alt: "Nepal picture"
-    title: "Anapurna hiking in Nepal"
-  - url: /images/sports/travels-2.jpg
-    image_path: /images/sports/travels-2.jpg
-    alt: "Nepal picture"
-    title: "Anapurna hiking in Nepal"
-  - url: /images/sports/travels-4.jpg
-    image_path: /images/sports/travels-4.jpg
-    alt: "India picture"
-    title: "Travel in India"
-  - url: /images/sports/travels-3.jpg
-    image_path: /images/sports/travels-3.jpg
-    alt: "Trieste picture"
-    title: "Visiting Trieste"
-  - url: /images/sports/travels-5.jpg
-    image_path: /images/sports/travels-5.jpg
-    alt: "Venise picture"
-    title: "Venise"
-gallery2:
-  - url: /images/sports/sports-1.jpg
-    image_path: /images/sports/sports-1.jpg
-    alt: "Climbing in the Calanques"
-    title: "Climbing in the Calanques"
-  - url: /images/sports/sports-2.jpg
-    image_path: /images/sports/sports-2.jpg
-    alt: "Rock climbing"
-    title: "Rock climbing"
-  - url: /images/sports/sports-3.jpg
-    image_path: /images/sports/sports-3.jpg
-    alt: "Skiing the Alps"
-    title: "Skiing the Alps"
-  - url: /images/sports/sports-4.jpg
-    image_path: /images/sports/sports-4.jpg
-    alt: "Sailing in Brittany"
-    title: "Sailing in Brittany"
-  - url: /images/sports/sports-5.jpg
-    image_path: /images/sports/sports-5.jpg
-    alt: "Kite surfing"
-    title: "Kite surfing"
 ---
 
 Besides my work, I have a keen interest for philosophy. I obtained a master's degre in philosophy in 2020, and this has helped me to broaden my horizons and to be able to communicate better with the people I work with. I specialize in contemporary political philosophy, critical social theory, as well as problems about subject and body in feminist philosophy.
@@ -53,8 +11,42 @@ On my spare time, I sometimes like to draw; I obtained a bachelor's of visual ar
 
 I enjoy traveling to forein countries. I've lived abroad for a few years already, and I speak english fluently.
 
-{% include gallery id="gallery1" caption="Some of the places I've traveled to"%}
+<div class="gallery-scroll">
+  <a href="/images/sports/travels-1.jpg" title="Hiking the Anapurnas in Nepal" class="image-popup">
+    <img class="gallery-img" src="/images/sports/travels-1.jpg" alt="Hiking the Anapurnas in Nepal">
+  </a>
+  <a href="/images/sports/travels-2.jpg" title="Hiking the Anapurnas in Nepal" class="image-popup">
+    <img class="gallery-img" src="/images/sports/travels-2.jpg" alt="Hiking the Anapurnas in Nepal">
+  </a>
+  <a href="/images/sports/travels-3.jpg" title="Travel in India" class="image-popup">
+    <img class="gallery-img" src="/images/sports/travels-3.jpg" alt="Travel in India">
+  </a>
+  <a href="/images/sports/travels-4.jpg" title="Visiting Trieste" class="image-popup">
+    <img class="gallery-img" src="/images/sports/travels-4.jpg" alt="Visiting Trieste">
+  </a>
+  <a href="/images/sports/travels-5.jpg" title="Visiting Venise" class="image-popup">
+    <img class="gallery-img" src="/images/sports/travels-5.jpg" alt="Visiting Venise">
+  </a>
+</div>
+<p class="gallery-caption">Some of the places I've traveled to</p>
 
 I like to keep in shape by praticing sports as much as possible. I regularly rock climb, ski, sail and kite surf and I'm always looking to discover new activities.
 
-{% include gallery id="gallery2" caption="Some of the sports I do"%}
+<div class="gallery-scroll">
+  <a href="/images/sports/sports-1.jpg" title="Climbing the Calanques" class="image-popup">
+    <img class="gallery-img" src="/images/sports/sports-1.jpg" alt="Climbing in the Calanques">
+  </a>
+  <a href="/images/sports/sports-2.jpg" title="Rock climbing" class="image-popup">
+    <img class="gallery-img" src="/images/sports/sports-2.jpg" alt="Rock climbing">
+  </a>
+  <a href="/images/sports/sports-3.jpg" title="Skiing the Alps" class="image-popup">
+    <img class="gallery-img" src="/images/sports/sports-3.jpg" alt="Skiing the Alps">
+  </a>
+  <a href="/images/sports/sports-4.jpg" title="Sailing in Brittany" class="image-popup">
+    <img class="gallery-img" src="/images/sports/sports-4.jpg" alt="Sailing in Brittany">
+  </a>
+  <a href="/images/sports/sports-5.jpg" title="Kite surfing" class="image-popup">
+    <img class="gallery-img" src="/images/sports/sports-5.jpg" alt="Kite surfing">
+  </a>
+</div>
+<p class="gallery-caption">Some of the sports I pratice</p>

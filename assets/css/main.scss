@@ -37,6 +37,33 @@ html {
     margin-top: .25em;
 }
 
-.minimal-gallery img {
-    // transform: scale(1, .75);
+
+.gallery-scroll {
+    display: flex;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    overflow-x: scroll;
+    height: 300px;
+    padding: .5rem 0;
+}
+
+.gallery-scroll .image-popup {
+    margin: .5rem;
+    scroll-snap-align: center;
+    flex: none;
+}
+
+.gallery-img {
+    height: 100%;
+    border-radius: 4px;
+    transition: all 0.2s ease-in-out;
+}
+
+.gallery-caption {
+    display: inline-block;
+    width: 100%;
+    color: #646769;
+    font-family: Georgia, Times, serif;
+    font-size: .75em !important;
+    margin: .5rem 0 .8rem !important;
 }
