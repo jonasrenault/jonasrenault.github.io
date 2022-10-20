@@ -13,7 +13,7 @@ classes: wide
 **Master's degree in computer science engineering and applied mathematics**, *2006-2009*  
 ENSEEIHT, *Toulouse, France*
 
-**Master's degree in artificial intelligence**, *2009.*  
+**Master's degree in artificial intelligence**, *2009*  
 Université Paul Sabatier, *Toulouse, France*
 
 
