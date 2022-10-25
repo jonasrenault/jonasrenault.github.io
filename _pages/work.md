@@ -15,17 +15,30 @@ gallery1:
     title: "Neurolang web app"
 gallery2:
   - url: /images/projects/cartolabe-1.jpg
-    image_path: /images/projects/cartolabe-1.jpg
+    image_path: /images/projects/thumbs/cartolabe-1.jpg
     alt: "Cartolabe web app screenshot"
     title: "Cartolabe web app"
   - url: /images/projects/cartolabe-2.jpg
-    image_path: /images/projects/cartolabe-2.jpg
+    image_path: /images/projects/thumbs/cartolabe-2.jpg
     alt: "Cartolabe web app screenshot"
     title: "Cartolabe web app"
   - url: /images/projects/cartolabe-3.jpg
-    image_path: /images/projects/cartolabe-3.jpg
+    image_path: /images/projects/thumbs/cartolabe-3.jpg
     alt: "Cartolabe web app screenshot"
     title: "Cartolabe web app"
+gallery3:
+  - url: /images/projects/massiccc-1.jpg
+    image_path: /images/projects/thumbs/massiccc-1.jpg
+    alt: "MASSICCC web app screenshot"
+    title: "MASSICCC web app"
+  - url: /images/projects/massiccc-2.jpg
+    image_path: /images/projects/thumbs/massiccc-2.jpg
+    alt: "MASSICCC web app screenshot"
+    title: "MASSICCC web app"
+  - url: /images/projects/massiccc-3.jpg
+    image_path: /images/projects/thumbs/massiccc-3.jpg
+    alt: "MASSICCC web app screenshot"
+    title: "MASSICCC web app"
 ---
 
 
@@ -59,6 +72,8 @@ Research engineer working with a mixed INRIA - Université Paris Saclay team. In
 <i class="fas fa-plus small-grey"></i> Fullstack development of the application from scratch  
 <i class="fas fa-plus small-grey"></i> Project management, principal architect and developer  
 <i class="fas fa-plus small-grey"></i> Public presentation and demonstration of the web app to scientific users  
+
+{% include gallery id="gallery3" caption="The MASSICCC application" %}
 
 
 **Fullstack engineer**, *WDS, A Xerox company* <span class="pull-right">2014 - 2015</span>  
