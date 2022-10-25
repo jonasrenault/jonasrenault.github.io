@@ -49,4 +49,4 @@ I like to keep in shape by praticing sports as much as possible. I regularly roc
     <img class="gallery-img" src="/images/sports/thumbnails/sports-5.jpg" alt="Kite surfing">
   </a>
 </div>
-<p class="gallery-caption">Some of the sports I pratice</p>
+<p class="gallery-caption">Some of the sports I practice</p>
