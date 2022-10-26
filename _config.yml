@@ -163,6 +163,10 @@ whitelist:
   - jekyll-feed
   - jekyll-include-cache
 
+# hide RSS feed
+atom_feed:
+  hide: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
