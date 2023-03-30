@@ -41,6 +41,13 @@ gallery3:
     title: "MASSICCC web app"
 ---
 
+**Project manager for Defense & Security research**, *INRIA* <span class="pull-right">2023 - </span>  
+<span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Python, Machine learning, JavaScript, Docker</span>  
+Project manager for [INRIA's Defense and Security](https://www.inria.fr/fr/mission-securite-defense-bilan-frederique-segond) mission. I am in charge of the engineering aspects for the various projects lead by the D&S team, whose goal is to develop partnerships and research initiatives with entities working in the field of national defense and security (Defense ministry, Gendarmerie, Dassault, etc.). As a project manager, I supervise engineers working on projects that develop state of the art AI research for military and defense appplications, and I contribute to developments of algorithms, tools and web platforms. I also help deploy, maintain and transfer ownership of those projects to our partners.  
+<i class="fas fa-plus small-grey"></i> Full cycle project management for small agile teams working to deliver advanced research applications to industry partners  
+<i class="fas fa-plus small-grey"></i> Teach and setup best practices and standards in development, project management and DevOps  
+<i class="fas fa-plus small-grey"></i> Advise research teams on architecture choices and technological & engineering solutions  
+
 
 **Research engineer**, *INRIA* <span class="pull-right">2021 - 2022</span>  
 <span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Python, Scikit-learn, Datalog, JavaScript</span>  
@@ -54,7 +61,7 @@ Research engineer, within the INRIA PARIETAL team, in charge of the [NeuroLang](
 {% include gallery id="gallery1" caption="The Neurolang application" %}
 
 
-**Research engineer**, *CNRS* <span class="pull-right">2018 - 2020</span>  
+**Research engineer**, *INRIA* <span class="pull-right">2018 - 2020</span>  
 <span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Angular, Python, D3.js</span>  
 Research engineer within the CNRS, in charge of the [Cartolabe](https://cartolabe.fr/) project. The Cartolabe web application lets users explore large collections of textual data through an interactive 2D map. AI algorithms analyze the textual data to produce a 2D representation of the corpus showing semantic similarities. It uses advanced visualization techniques to rapidly display millions of points in the browser and allow users to search, filter and zoom through the data.  
 <i class="fas fa-plus small-grey"></i> Develop data analysis and visualization software for large corpuses of textual data (Wikipedia, scientific publications, …)  
@@ -72,7 +79,6 @@ Research engineer working with a mixed INRIA - Université Paris Saclay team. In
 <i class="fas fa-plus small-grey"></i> Fullstack development of the application from scratch  
 <i class="fas fa-plus small-grey"></i> Project management, principal architect and developer  
 <i class="fas fa-plus small-grey"></i> Public presentation and demonstration of the web app to scientific users  
-
 {% include gallery id="gallery3" caption="The MASSICCC application" %}
 
 
