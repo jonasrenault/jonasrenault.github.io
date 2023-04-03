@@ -43,7 +43,7 @@ gallery3:
 
 **Project manager for Defense & Security research**, *INRIA* <span class="pull-right">2023 - </span>  
 <span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Python, Machine learning, JavaScript, Docker</span>  
-Project manager for [INRIA's Defense and Security](https://www.inria.fr/fr/mission-securite-defense-bilan-frederique-segond) mission. I am in charge of the engineering aspects for the various projects lead by the D&S team, whose goal is to develop partnerships and research initiatives with entities working in the field of national defense and security (Defense ministry, Gendarmerie, Dassault, etc.). As a project manager, I supervise engineers working on projects that develop state of the art AI research for military and defense appplications, and I contribute to developments of algorithms, tools and web platforms. I also help deploy, maintain and transfer ownership of those projects to our partners.  
+Project manager for [INRIA's Defense and Security](https://www.inria.fr/fr/mission-securite-defense-bilan-frederique-segond) mission. I am in charge of the engineering aspects for the various projects lead by the D&S team, whose goal is to develop partnerships and research initiatives with entities working in the field of national defense and security (Defense ministry, gendarmerie, etc.). As a project manager, I supervise engineers working on projects that develop state of the art AI research for military and defense appplications, and I contribute to developments of algorithms, tools and web platforms. I also help deploy, maintain and transfer ownership of those projects to our partners.  
 <i class="fas fa-plus small-grey"></i> Full cycle project management for small agile teams working to deliver advanced research applications to industry partners  
 <i class="fas fa-plus small-grey"></i> Teach and setup best practices and standards in development, project management and DevOps  
 <i class="fas fa-plus small-grey"></i> Advise research teams on architecture choices and technological & engineering solutions  
@@ -82,15 +82,15 @@ Research engineer working with a mixed INRIA - Université Paris Saclay team. In
 {% include gallery id="gallery3" caption="The MASSICCC application" %}
 
 
-**Fullstack engineer**, *WDS, A Xerox company* <span class="pull-right">2014 - 2015</span>  
+**Full stack engineer**, *WDS, A Xerox company* <span class="pull-right">2014 - 2015</span>  
 <span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Java, JavaScript, Redis, PlayFramework</span>  
-Working within an international team of developers, I helped develop an intelligent virtual agent for call centers. This virtual agent relies machine learning algorithms to solve problems and find the most relevant information and solutions.  
+Working within an international team of developers, I helped develop an intelligent virtual agent for call centers. This virtual agent relies on machine learning algorithms to solve problems and find the most relevant information and solutions for call center operators.  
 <i class="fas fa-plus small-grey"></i> Implementation of machine learning algorithms (classification, clustering, search algorithms, …) in collaboration with researchers from the Xerox Research Center Europe.  
 <i class="fas fa-plus small-grey"></i> Fullstack development of both front and backend (Java, Angular)  
-<i class="fas fa-plus small-grey"></i> Following Agile best pratices (peer programming, test driven development, continuous integration)  
+<i class="fas fa-plus small-grey"></i> Following agile best pratices (peer programming, test driven development, continuous integration)  
 
 
-**Fullstack developer**, *7 Circles* <span class="pull-right">2011 - 2014</span>  
+**Full stack developer**, *7 Circles* <span class="pull-right">2011 - 2014</span>  
 <span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Java, JavaScript, ElasticSearch, MongoDB</span>  
 Fullstack developer for a startup developing specialized social networks.  
 <i class="fas fa-plus small-grey"></i> Fullstack development (Java, GWT)  
