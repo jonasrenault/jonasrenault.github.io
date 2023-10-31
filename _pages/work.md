@@ -39,6 +39,11 @@ gallery3:
     image_path: /images/projects/thumbs/massiccc-3.jpg
     alt: "MASSICCC web app screenshot"
     title: "MASSICCC web app"
+gallery4:
+  - url: /images/projects/ms-1.pdf
+    image_path: /images/projects/thumbs/ms-1.png
+    alt: "Inria Mission Défense & Sécurité"
+    title: "Inria Mission Défense & Sécurité"
 ---
 
 **Project manager for Defense & Security research**, *INRIA* <span class="pull-right">2023 - </span>  
@@ -47,6 +52,7 @@ Project manager for [INRIA's Defense and Security](https://www.inria.fr/fr/missi
 <i class="fas fa-plus small-grey"></i> Full cycle project management for small agile teams working to deliver advanced research applications to industry partners  
 <i class="fas fa-plus small-grey"></i> Teach and setup best practices and standards in development, project management and DevOps  
 <i class="fas fa-plus small-grey"></i> Advise research teams on architecture choices and technological & engineering solutions  
+{% include gallery id="gallery4" caption="" %}
 
 
 **Research engineer**, *INRIA* <span class="pull-right">2021 - 2022</span>  
@@ -57,7 +63,7 @@ Research engineer, within the INRIA PARIETAL team, in charge of the [NeuroLang](
 <i class="fas fa-plus small-grey"></i> Public presentation of the project, as well as contributing to research papers and white-papers  
 
 <span class="small-grey"><i class="fab fa-fw fa-github" aria-hidden="true"></i>[Source code](https://github.com/NeuroLang/NeuroLang)</span>
-<span class="small-grey"><i class="fab fa-fw fa-chrome" aria-hidden="true"></i>[Web app](http://neurolang-interne.saclay.inria.fr/)</span>
+<span class="small-grey"><i class="fab fa-fw fa-chrome" aria-hidden="true"></i>[Web app](http://neurolang-u18.saclay.inria.fr/)</span>
 {% include gallery id="gallery1" caption="The Neurolang application" %}
 
 
