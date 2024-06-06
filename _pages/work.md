@@ -5,43 +5,43 @@ permalink: /work/
 author_profile: true
 classes: wide
 gallery1:
-  - url: /images/projects/neurolang-1.jpg
-    image_path: /images/projects/neurolang-1.jpg
+  - url: /assets/images/projects/neurolang-1.jpg
+    image_path: /assets/images/projects/neurolang-1.jpg
     alt: "Neurolang web app screenshot"
     title: "Neurolang web app"
-  - url: /images/projects/neurolang-2.jpg
-    image_path: /images/projects/neurolang-2.jpg
+  - url: /assets/images/projects/neurolang-2.jpg
+    image_path: /assets/images/projects/neurolang-2.jpg
     alt: "Neurolang web app screenshot"
     title: "Neurolang web app"
 gallery2:
-  - url: /images/projects/cartolabe-1.jpg
-    image_path: /images/projects/thumbs/cartolabe-1.jpg
+  - url: /assets/images/projects/cartolabe-1.jpg
+    image_path: /assets/images/projects/thumbs/cartolabe-1.jpg
     alt: "Cartolabe web app screenshot"
     title: "Cartolabe web app"
-  - url: /images/projects/cartolabe-2.jpg
-    image_path: /images/projects/thumbs/cartolabe-2.jpg
+  - url: /assets/images/projects/cartolabe-2.jpg
+    image_path: /assets/images/projects/thumbs/cartolabe-2.jpg
     alt: "Cartolabe web app screenshot"
     title: "Cartolabe web app"
-  - url: /images/projects/cartolabe-3.jpg
-    image_path: /images/projects/thumbs/cartolabe-3.jpg
+  - url: /assets/images/projects/cartolabe-3.jpg
+    image_path: /assets/images/projects/thumbs/cartolabe-3.jpg
     alt: "Cartolabe web app screenshot"
     title: "Cartolabe web app"
 gallery3:
-  - url: /images/projects/massiccc-1.jpg
-    image_path: /images/projects/thumbs/massiccc-1.jpg
+  - url: /assets/images/projects/massiccc-1.jpg
+    image_path: /assets/images/projects/thumbs/massiccc-1.jpg
     alt: "MASSICCC web app screenshot"
     title: "MASSICCC web app"
-  - url: /images/projects/massiccc-2.jpg
-    image_path: /images/projects/thumbs/massiccc-2.jpg
+  - url: /assets/images/projects/massiccc-2.jpg
+    image_path: /assets/images/projects/thumbs/massiccc-2.jpg
     alt: "MASSICCC web app screenshot"
     title: "MASSICCC web app"
-  - url: /images/projects/massiccc-3.jpg
-    image_path: /images/projects/thumbs/massiccc-3.jpg
+  - url: /assets/images/projects/massiccc-3.jpg
+    image_path: /assets/images/projects/thumbs/massiccc-3.jpg
     alt: "MASSICCC web app screenshot"
     title: "MASSICCC web app"
 gallery4:
-  - url: /images/projects/ms-1.pdf
-    image_path: /images/projects/thumbs/ms-1.png
+  - url: /assets/images/projects/ms-1.pdf
+    image_path: /assets/images/projects/thumbs/ms-1.png
     alt: "Inria Mission Défense & Sécurité"
     title: "Inria Mission Défense & Sécurité"
 ---

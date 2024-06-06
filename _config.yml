@@ -29,21 +29,13 @@ twitter_username: jonasrza
 github_username:  jonasrenault
 
 # Build settings
-# theme: minima
-plugins:
-  - jekyll-feed
-
-# Theme Settings
-#
-# Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: mmistakes/minimal-mistakes@4.26.1
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Author
 author:
   name             : "Jonas Renault"
-  avatar           : "/images/bio-photo-2.jpg"
+  avatar           : "/assets/images/bio-photo-2.jpg"
   bio              : "Research Engineer / Senior Fullstack Developer"
   location         : "France"
   employer         :
@@ -125,7 +117,6 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
 # Markdown Processing
 kramdown:
   input: GFM
@@ -137,36 +128,16 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
 include:
   - _pages
-  - files
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
   - jekyll-include-cache
 
 # hide RSS feed
 atom_feed:
   hide: true
-
 
 analytics:
   provider: "google-gtag"
