@@ -24,3 +24,15 @@ bundle exec jekyll serve --incremental
 ```
 
 to serve the website locally and watch changes.
+
+## Documentation
+
+Take a look at Minimal Mistakes' [documentation]((https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)) for setup and customization of the website.
+
+## Deploy to Github Pages
+
+By default, this website is deployed to Github Pages using a custom Github Actions workflow. Follow the steps [here](https://jekyllrb.com/docs/continuous-integration/github-actions/#setting-up-the-action) to setup a deployment for your github pages.
+
+## Google Analytics
+
+Google Analytics is enabled using Minimal Mistakes' [support](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#analytics).

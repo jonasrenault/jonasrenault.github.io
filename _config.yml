@@ -29,7 +29,8 @@ twitter_username: jonasrza
 github_username:  jonasrenault
 
 # Build settings
-remote_theme: mmistakes/minimal-mistakes@4.26.1
+# remote_theme: mmistakes/minimal-mistakes@4.26.1
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Author
