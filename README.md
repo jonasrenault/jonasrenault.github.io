@@ -35,4 +35,4 @@ By default, this website is deployed to Github Pages using a custom Github Actio
 
 ## Google Analytics
 
-Google Analytics is enabled using Minimal Mistakes' [support](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#analytics).
+Google Analytics is enabled using Minimal Mistakes' [support](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#analytics). To avoid sharing the tracking id on github, the `__GA_TRACKING_ID__` variable in [_config.yml](./_config.yml) is replaced during deployment to Github Pages in the [workflow](./.github/workflows/jekyll.yml). To function properly, you must create a `build` environment in your repository, and [add a secret variable](https://docs.github.com/en/actions/security-guides/using-secrets-in-github-actions#creating-secrets-for-an-environment) named `GA_TRACKING_ID` with the Google Analytics tracking id value.
