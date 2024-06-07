@@ -1,8 +1,7 @@
 # Jonas Renault's personnal website
 
-[![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.7-blue.svg)](https://jekyllrb.com/)
-[![Ruby gem](https://img.shields.io/gem/v/minimal-mistakes-jekyll?label=minimal%20mistakes
-)](https://rubygems.org/gems/minimal-mistakes-jekyll)
+[![Jekyll](https://img.shields.io/gem/v/jekyll?label=jekyll)](https://jekyllrb.com/)
+[![Ruby gem](https://img.shields.io/gem/v/minimal-mistakes-jekyll?label=minimal%20mistakes)](https://rubygems.org/gems/minimal-mistakes-jekyll)
 
 This is the repository for my personal website. Visit it at [https://jonasrenault.github.io](https://jonasrenault.github.io)
 
@@ -28,7 +27,7 @@ to serve the website locally and watch changes.
 
 ## Documentation
 
-Take a look at Minimal Mistakes' [documentation]((https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)) for setup and customization of the website.
+Take a look at Minimal Mistakes' [documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) for setup and customization of the website.
 
 ## Deploy to Github Pages
 
