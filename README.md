@@ -31,7 +31,9 @@ Take a look at Minimal Mistakes' [documentation](https://mmistakes.github.io/min
 
 ## Deploy to Github Pages
 
-By default, this website is deployed to Github Pages using a custom Github Actions workflow. Follow the steps [here](https://jekyllrb.com/docs/continuous-integration/github-actions/#setting-up-the-action) to setup a deployment for your github pages.
+This website is deployed to Github Pages using a custom [Github Actions workflow](./.github/workflows/jekyll.yml). Follow the steps [here](https://jekyllrb.com/docs/continuous-integration/github-actions/#setting-up-the-action) to setup a deployment for your github pages.
+
+I deployed my website on a custom domain; if you want to deploy it to a default github pages domain instead, delete the [CNAME](./CNAME) file, and update the `domain` and `url` variables in [_config.yml](./_config.yml).
 
 ## Google Analytics
 
