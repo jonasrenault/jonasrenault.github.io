@@ -43,7 +43,9 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
       - name: Set Google Analytics Tag
-        run: sed -i 's/__GA_TRACKING_ID__/${{ secrets.GA_TRACKING_ID }}/g' _config.yml
+        run: sed -i "s/__GA_TRACKING_ID__/$GA_TRACKING_ID/g" _config.yml
+        env:
+          GA_TRACKING_ID: ${{secrets.GA_TRACKING_ID}}
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
