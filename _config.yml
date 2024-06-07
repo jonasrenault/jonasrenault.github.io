@@ -24,10 +24,10 @@ name: Jonas Renault
 email: jonasrenault@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Jonas Renault - Research Engineer, Senior Fullstack Developer, Project Manager
-domain: jonasrenault.github.io
+domain: jrenault.fr
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jonasrenault.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-repository: "jonasrenault/jonasrenault"
+url: "https://jrenault.fr" # the base hostname & protocol for your site, e.g. http://example.com
+repository: "jonasrenault/jonasrenault.github.io"
 twitter_username: jonasrza
 github_username:  jonasrenault
 
