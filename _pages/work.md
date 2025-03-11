@@ -40,17 +40,21 @@ gallery3:
     alt: "MASSICCC web app screenshot"
     title: "MASSICCC web app"
 gallery4:
-  - url: /assets/images/projects/ms-1.pdf
-    image_path: /assets/images/projects/thumbs/ms-1.png
-    alt: "Inria Mission Défense & Sécurité"
+  # - url: /assets/images/projects/ms-1.pdf
+  #   image_path: /assets/images/projects/thumbs/ms-1.png
+  #   alt: "Inria Mission Défense & Sécurité"
+  #   title: "Inria Mission Défense & Sécurité"
+  - url: https://github.com/jonasrenault/adomvi
+    image_path: /assets/images/projects/thumbs/ms-2.gif
+    alt: "Détection automatique de véhicules militaires"
     title: "Inria Mission Défense & Sécurité"
 ---
 
-**Project manager for Defense & Security research**, *INRIA* <span class="pull-right">2023 - </span>  
-<span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Python, Machine learning, JavaScript, Docker</span>  
-Project manager for [INRIA's Defense and Security](https://www.inria.fr/fr/mission-securite-defense-bilan-frederique-segond) mission. I am in charge of the engineering aspects for the various projects lead by the D&S team, whose goal is to develop partnerships and research initiatives with entities working in the field of national defense and security (Defense ministry, gendarmerie, etc.). As a project manager, I supervise engineers working on projects that develop state of the art AI research for military and defense appplications, and I contribute to developments of algorithms, tools and web platforms. I also help deploy, maintain and transfer ownership of those projects to our partners.  
+**Project manager & engineering lead for Defense & Security research**, *INRIA* <span class="pull-right">2023 - </span>  
+<span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Python, Machine Learning, Deep Learning, NLP, JavaScript, Docker</span>  
+Project manager and engineering lead for [INRIA's Defense and Security (D&S)](https://team.inria.fr/dees/){:target="_blank"} department, whose goal is to develop partnerships and research projects with entities of the Defense ministry. I supervise engineers working on projects that develop state of the art AI research for military and defense applications, and I contribute to the development of algorithms, models and tools, mostly in the fields of information mining, natural language processing, deep learning and cyberdefense. I also help deploy, maintain and transfer ownership of those projects to our partners.  
 <i class="fas fa-plus small-grey"></i> Full cycle project management for small agile teams working to deliver advanced research applications to industry partners  
-<i class="fas fa-plus small-grey"></i> Teach and setup best practices and standards in development, project management and DevOps  
+<i class="fas fa-plus small-grey"></i> Teach and setup best practices and standards in software development, project management and DevOps  
 <i class="fas fa-plus small-grey"></i> Advise research teams on architecture choices and technological & engineering solutions  
 {% include gallery id="gallery4" caption="" %}
 
