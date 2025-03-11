@@ -22,13 +22,12 @@ title: Jonas Renault
 title_separator: "|"
 name: Jonas Renault
 email: jonasrenault@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Jonas Renault - Research Engineer, Senior Fullstack Developer, Project Manager
+description: >- # this means to ignore newlines until "domain:"
+  Jonas Renault - Senior Research Engineer, Fullstack Developer and Project Manager
 domain: jrenault.fr
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jrenault.fr" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "jonasrenault/jonasrenault.github.io"
-twitter_username: jonasrza
 github_username:  jonasrenault
 
 # Build settings
@@ -40,11 +39,18 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 author:
   name             : "Jonas Renault"
   avatar           : "/assets/images/bio-photo-2.jpg"
-  bio              : "Research Engineer / Senior Fullstack Developer"
+  bio              : "Senior Research Engineer & Fullstack Developer"
   location         : "France"
-  employer         :
-  email            : "jonasrenault@gmail.com"
-  github           : "jonasrenault"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jonasrenault@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jonasrenault"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jonasrenault/"
 
 # Site Footer
 footer:
@@ -52,9 +58,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jonasrenault"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/jonasrza"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jonasrenault/"
 
 
 # Defaults
@@ -148,6 +154,11 @@ analytics:
   google:
     tracking_id: __GA_TRACKING_ID__
     anonymize_ip: false # default
+
+# added the following to disable sass deprecation warnings.
+# see https://github.com/mmistakes/minimal-mistakes/issues/4054
+sass:
+  quiet_deps: true    # Disable printing deprecation warnings to terminal
 
 # Exclude from processing.
 # The following items will not be processed, by default.
