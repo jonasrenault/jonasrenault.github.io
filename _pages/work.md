@@ -50,8 +50,8 @@ gallery4:
     title: "Inria Mission Défense & Sécurité"
 ---
 
-**Project manager & engineering lead for Defense & Security research**, *INRIA* <span class="pull-right">2023 - </span>  
-<span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Python, Machine Learning, Deep Learning, NLP, JavaScript, Docker</span>  
+**Tech Lead**, *INRIA* <span class="pull-right">2023 - 2026</span>  
+<span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Python, PyTorch, React, FastAPI</span>  
 Project manager and engineering lead for [INRIA's Defense and Security (D&S)](https://team.inria.fr/dees/){:target="_blank"} department, whose goal is to develop partnerships and research projects with entities of the Defense ministry. I supervise engineers working on projects that develop state of the art AI research for military and defense applications, and I contribute to the development of algorithms, models and tools, mostly in the fields of information mining, natural language processing, deep learning and cyberdefense. I also help deploy, maintain and transfer ownership of those projects to our partners.  
 <i class="fas fa-plus small-grey"></i> Full cycle project management for small agile teams working to deliver advanced research applications to industry partners  
 <i class="fas fa-plus small-grey"></i> Teach and setup best practices and standards in software development, project management and DevOps  
@@ -73,7 +73,7 @@ Research engineer, within the INRIA PARIETAL team, in charge of the [NeuroLang](
 
 **Research engineer**, *INRIA* <span class="pull-right">2018 - 2020</span>  
 <span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Angular, Python, D3.js</span>  
-Research engineer within the CNRS, in charge of the [Cartolabe](https://cartolabe.fr/) project. The Cartolabe web application lets users explore large collections of textual data through an interactive 2D map. AI algorithms analyze the textual data to produce a 2D representation of the corpus showing semantic similarities. It uses advanced visualization techniques to rapidly display millions of points in the browser and allow users to search, filter and zoom through the data.  
+Research engineer within the AVIZ team, in charge of the [Cartolabe](https://cartolabe.fr/) project. The Cartolabe web application lets users explore large collections of textual data through an interactive 2D map. AI algorithms analyze the textual data to produce a 2D representation of the corpus showing semantic similarities. It uses advanced visualization techniques to rapidly display millions of points in the browser and allow users to search, filter and zoom through the data.  
 <i class="fas fa-plus small-grey"></i> Develop data analysis and visualization software for large corpuses of textual data (Wikipedia, scientific publications, …)  
 <i class="fas fa-plus small-grey"></i> Lead developer and project manager  
 <i class="fas fa-plus small-grey"></i> Contribution to scientific articles  
@@ -85,14 +85,14 @@ Research engineer within the CNRS, in charge of the [Cartolabe](https://cartolab
 
 **Research engineer**, *INRIA* <span class="pull-right">2015 - 2017</span>  
 <span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Angular, Python, R, D3.js</span>  
-Research engineer working with a mixed INRIA - Université Paris Saclay team. In charge of developing a web application for statistical data analysis. The web platform lets users upload their data on a server, launch a data processing task on a cluster and retrieve and view the results directly in the browser once the task is finished.  
+Research engineer within the MODAL team. In charge of developing a web application for statistical data analysis. The web platform lets users upload their data on a server, launch a data processing task on a cluster and retrieve and view the results directly in the browser once the task is finished.  
 <i class="fas fa-plus small-grey"></i> Fullstack development of the application from scratch  
 <i class="fas fa-plus small-grey"></i> Project management, principal architect and developer  
 <i class="fas fa-plus small-grey"></i> Public presentation and demonstration of the web app to scientific users  
 {% include gallery id="gallery3" caption="The MASSICCC application" %}
 
 
-**Full stack engineer**, *WDS, A Xerox company* <span class="pull-right">2014 - 2015</span>  
+**R&D engineer**, *WDS, A Xerox company* <span class="pull-right">2014 - 2015</span>  
 <span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Java, JavaScript, Redis, PlayFramework</span>  
 Working within an international team of developers, I helped develop an intelligent virtual agent for call centers. This virtual agent relies on machine learning algorithms to solve problems and find the most relevant information and solutions for call center operators.  
 <i class="fas fa-plus small-grey"></i> Implementation of machine learning algorithms (classification, clustering, search algorithms, …) in collaboration with researchers from the Xerox Research Center Europe.  
@@ -100,7 +100,7 @@ Working within an international team of developers, I helped develop an intellig
 <i class="fas fa-plus small-grey"></i> Following agile best pratices (peer programming, test driven development, continuous integration)  
 
 
-**Full stack developer**, *7 Circles* <span class="pull-right">2011 - 2014</span>  
+**Fullstack developer**, *7 Circles* <span class="pull-right">2011 - 2014</span>  
 <span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Java, JavaScript, ElasticSearch, MongoDB</span>  
 Fullstack developer for a startup developing specialized social networks.  
 <i class="fas fa-plus small-grey"></i> Fullstack development (Java, GWT)  
